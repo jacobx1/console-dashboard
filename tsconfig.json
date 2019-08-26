@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "outDir": "build",
+    "sourceMap": true,
+    "module": "commonjs",
+    "allowSyntheticDefaultImports": true
+  }
+}
